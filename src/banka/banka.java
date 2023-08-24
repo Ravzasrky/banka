@@ -103,7 +103,7 @@ public class banka {
 			
 			menu();
 		}
-		else if (menuyegit == 5) {
+		else if (menuyegit == 4) {
 			
 			System.out.print("\ncıkıs yapıldı..");
 			System.exit(1);
